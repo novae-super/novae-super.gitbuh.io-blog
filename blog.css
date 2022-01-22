@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+#input{
+    width: 75%;
+    height: auto;
+    color:white;
+    border-style: solid;
+    border-color:aliceblue; 
+}
+#output{
+    width: 75%;
+    height: auto;
+    color:white;
+    border-style: solid;
+    border-color:aliceblue;  
+}
+#submitButton{
+    width: 40%;
+    border-style: solid;
+}
